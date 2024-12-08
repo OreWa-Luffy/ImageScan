@@ -37,3 +37,6 @@ class HorzeZebraDataset(Dataset):
             horse_img = augmentations["image0"]
             
         return zebra_img, horse_img
+    
+    
+
